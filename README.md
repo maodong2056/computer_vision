@@ -24,7 +24,7 @@
 ### 3.4.3 [Video_Classification_RGBD](https://github.com/wangxingxing/computer_vision/blob/master/Video_Classification_RGBD.md)
 # 4 machine learning
 ## 4.1 CNN
-### 4.1.1 [BackBond](https://github.com/wangxingxing/computer_vision/blob/master/Backbond.md)
+### 4.1.1 [BackBond](https://github.com/wangxingxing/computer_vision/blob/master/Backbone.md)
 ## 4.2 Supervised Learning
 ## 4.3 Unsupervised, Semi-Supervised Learning
 ## 4.4 Transfer Learning
